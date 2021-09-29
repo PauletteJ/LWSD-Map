@@ -5,22 +5,22 @@ I created maps of the schools in the Lake Washington School District (LWSD), whi
 ##LWSD School Map
 
 This map includes the elementary (red), middle (blue), and high schools in the district
-![LWSD Schools Map](images/LWSD_School_Map.jpeg)
+![LWSD Schools Map](Images/LWSD_School_Map.jpeg)
 
 ##Elementary School Map
 
 This map shows the elementary schools of the Lake Washington School District.
 
-![LWSD High Schools](images/LWSD-Elementary-School-Map.jpeg)
+![LWSD High Schools](Images/LWSD-Elementary-School-Map.jpeg)
 
 ##Middle School Map
 
 This map shows the middle schools of the Lake Washington School District.
 
-![LWSD High Schools](images/LWSD-Middle-School-Map.jpeg)
+![LWSD High Schools](Images/LWSD-Middle-School-Map.jpeg)
 
 ##High School Map
 
 This map shows the high schools of the Lake Washington School District.
 
-![LWSD High Schools](images/LWSD-High-School-Map.jpeg)
+![LWSD High Schools](Images/LWSD-High-School-Map.jpeg)
